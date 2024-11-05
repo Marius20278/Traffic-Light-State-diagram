@@ -1,4 +1,4 @@
-# Traffic-Light-State-diagram
+# Gishushu Traffic Lights State Machine
 # Overview
 
 This project models the behavior of a traffic light system as a state machine. It uses PlantUML to create a visual state diagram that simulates the different states
